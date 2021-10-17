@@ -1,2 +1,2 @@
-# pbformat
-Python class to read the native binary format used in the Phantom Smoothed Particle Hydrodynamics code
+# phantompy
+Python library to read the native binary format used in the Phantom Smoothed Particle Hydrodynamics code
